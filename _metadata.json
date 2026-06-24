@@ -1,0 +1,51 @@
+{
+  "owner": "local",
+  "repo": "ui-ux-pro-max-skill-main",
+  "description": "Skill gerada a partir do arquivo ui-ux-pro-max-skill-main.zip.",
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "stars": 0,
+  "license": null,
+  "defaultBranch": "local",
+  "source": {
+    "type": "archive",
+    "filename": "ui-ux-pro-max-skill-main.zip"
+  },
+  "docsIncluded": [
+    "README.md",
+    "cli/README.md",
+    "CLAUDE.md",
+    "CONTRIBUTING.md",
+    "docs/三个 data-scripts-templates 的区别.md",
+    ".claude/skills/banner-design/SKILL.md",
+    ".claude/skills/brand/SKILL.md",
+    ".claude/skills/design-system/SKILL.md",
+    ".claude/skills/design/SKILL.md",
+    ".claude/skills/slides/SKILL.md",
+    ".claude/skills/ui-styling/SKILL.md",
+    ".claude/skills/ui-ux-pro-max/SKILL.md",
+    ".claude/skills/banner-design/references/banner-sizes-and-styles.md",
+    ".claude/skills/brand/references/approval-checklist.md",
+    ".claude/skills/brand/references/asset-organization.md",
+    ".claude/skills/brand/references/brand-guideline-template.md",
+    ".claude/skills/brand/references/color-palette-management.md",
+    ".claude/skills/brand/references/consistency-checklist.md",
+    ".claude/skills/brand/references/logo-usage-rules.md",
+    ".claude/skills/brand/references/messaging-framework.md",
+    ".claude/skills/brand/references/typography-specifications.md",
+    ".claude/skills/brand/references/update.md",
+    ".claude/skills/brand/references/visual-identity.md",
+    ".claude/skills/brand/references/voice-framework.md",
+    ".claude/skills/brand/templates/brand-guidelines-starter.md"
+  ],
+  "totalArchiveFiles": 329,
+  "security": {
+    "risk": "clean",
+    "score": 0,
+    "filesScanned": 116,
+    "findings": [],
+    "summary": "Nenhum padrão suspeito encontrado em 116 arquivos do arquivo enviado."
+  },
+  "generatedAt": "2026-06-24T14:12:44.971Z"
+}
